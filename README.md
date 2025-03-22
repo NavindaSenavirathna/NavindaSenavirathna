@@ -48,6 +48,6 @@ I'm [Navinda Senavirathna](https://www.csbodima.lk/navinda), Dedicated full-stac
   
    [![Linkedin Badge](https://github.com/NavindaSenavirathna/Navinda-Senavirathna/blob/main/Social%20Media%20Icons/LinkedIn.jpg)](http://www.linkedin.com/in/navinda-senavirathna-9304aa1b0) 
    [![Gmail Badge](https://github.com/NavindaSenavirathna/Navinda-Senavirathna/blob/main/Social%20Media%20Icons/Gmail.jpg)](mailto:navindasenavirathna@gmail.com)
-   [![Instagram Badge](https://github.com/NavindaSenavirathna/Navinda-Senavirathna/blob/main/Social%20Media%20Icons/Instagram.jpg)](https://instagram.com/v_anushkaa) 
+   [![Instagram Badge](https://github.com/NavindaSenavirathna/Navinda-Senavirathna/blob/main/Social%20Media%20Icons/Instagram.jpg)](https://www.instagram.com/navindasenavirathna/) 
    [![Facebook Badge](https://github.com/NavindaSenavirathna/Navinda-Senavirathna/blob/main/Social%20Media%20Icons/Facebook.jpg)]([https://www.facebook.com/profile.php?id=100022118525351](https://web.facebook.com/navinda.senavirathna.9))
 </p>

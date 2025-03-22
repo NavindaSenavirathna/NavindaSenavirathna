@@ -4,7 +4,7 @@ I'm [Navinda Senavirathna](https://www.csbodima.lk/navinda), Dedicated full-stac
 
  ---
  
-**Currently I am working ...**
+**Currently I am looking forward to finding a new position as an intern...**
 
 - <div>
     <img width="250" height="95" align='left' src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/images/hopsteiner.png" >

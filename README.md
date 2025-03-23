@@ -44,7 +44,7 @@ I'm [Navinda Senavirathna](https://www.csbodima.lk/navinda), Dedicated full-stac
  ---
  
 <p align="center">
-  <i>Let's connect with me...</i>
+  <i>Connect with me...</i>
   
    [![Linkedin Badge](https://github.com/NavindaSenavirathna/Navinda-Senavirathna/blob/main/Social%20Media%20Icons/LinkedIn.jpg)](http://www.linkedin.com/in/navinda-senavirathna-9304aa1b0) 
    [![Gmail Badge](https://github.com/NavindaSenavirathna/Navinda-Senavirathna/blob/main/Social%20Media%20Icons/Gmail.jpg)](mailto:navindasenavirathna@gmail.com)
